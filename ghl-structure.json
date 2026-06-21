@@ -1,0 +1,51 @@
+[
+  {
+    "tag": "div",
+    "id": null,
+    "classes": "flex flex-col lg:flex-row items-center gap-16 lg:gap-24",
+    "childCount": 2,
+    "textPreview": "Empowering Youth, Strengthening FamiliesBuilding Brighter Futures TogetherBeyond Boundaries Youth Se"
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "classes": "flex flex-col sm:flex-row items-center gap-4 w-full sm:w-auto",
+    "childCount": 2,
+    "textPreview": "Learn More Make a Donation"
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "classes": "[object SVGAnimatedString]",
+    "childCount": 2,
+    "textPreview": ""
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "classes": "bg-primary rounded-[2.5rem] shadow-[0_20px_60px_-15px_rgba(0,0,0,0.05)] flex flex-col lg:flex-row overflow-hidden border border-primary/10",
+    "childCount": 2,
+    "textPreview": "Upcoming EventCommunity Unity DayBringing families, resources & community together! Join us for a fr"
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "classes": "[object SVGAnimatedString]",
+    "childCount": 2,
+    "textPreview": ""
+  },
+  {
+    "tag": "svg",
+    "id": null,
+    "classes": "[object SVGAnimatedString]",
+    "childCount": 2,
+    "textPreview": ""
+  },
+  {
+    "tag": "div",
+    "id": null,
+    "classes": "pt-8 border-t border-primary/10 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted-foreground",
+    "childCount": 2,
+    "textPreview": "© 2026 Beyond Boundaries Youth Services Inc. All rights reserved.Building Brighter Futures"
+  }
+]

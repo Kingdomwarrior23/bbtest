@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "name": "robots",
+      "content": "noindex",
+      "style": "display: block !important;"
+    },
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1.0",
+      "style": "display: block !important;"
+    },
+    {
+      "name": "description",
+      "content": "Join us for a free family-friendly event bringing the community together, raising dyslexia awareness, and supporting local youth.",
+      "style": "display: block !important;"
+    },
+    {
+      "name": "author",
+      "content": "Beyond Boundaries Youth Services Inc.",
+      "style": "display: block !important;"
+    }
+  ],
+  "og": [
+    {
+      "property": "og:title",
+      "content": "Beyond Boundaries Youth Services",
+      "style": "display: block !important;"
+    },
+    {
+      "property": "og:description",
+      "content": "Join us for a free family-friendly event bringing the community together, raising dyslexia awareness, and supporting local youth.",
+      "style": "display: block !important;"
+    },
+    {
+      "property": "og:type",
+      "content": "website",
+      "style": "display: block !important;"
+    },
+    {
+      "property": "og:image",
+      "content": "https://vibe.filesafe.space/1780273527087553998/assets/9d264e45-b43b-429c-abf1-6f417c0aae06.png",
+      "style": "display: block !important;"
+    },
+    {
+      "property": "og:url",
+      "content": "/",
+      "style": "display: block !important;"
+    }
+  ],
+  "twitter": [
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image",
+      "style": "display: block !important;"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Beyond Boundaries Youth Services",
+      "style": "display: block !important;"
+    },
+    {
+      "name": "twitter:description",
+      "content": "Join us for a free family-friendly event bringing the community together, raising dyslexia awareness, and supporting local youth.",
+      "style": "display: block !important;"
+    },
+    {
+      "name": "twitter:image",
+      "content": "https://vibe.filesafe.space/1780273527087553998/assets/9d264e45-b43b-429c-abf1-6f417c0aae06.png",
+      "style": "display: block !important;"
+    }
+  ],
+  "other": [
+    {
+      "charset": "UTF-8",
+      "style": "display: block !important;"
+    }
+  ],
+  "canonical": null,
+  "viewport": "width=device-width, initial-scale=1.0"
+}
