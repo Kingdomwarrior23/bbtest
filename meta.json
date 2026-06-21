@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "name": "robots",
+      "content": "noindex"
+    },
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1.0"
+    },
+    {
+      "name": "description",
+      "content": "Join us for a free family-friendly event bringing the community together, raising dyslexia awareness, and supporting local youth."
+    },
+    {
+      "name": "author",
+      "content": "Beyond Boundaries Youth Services Inc."
+    }
+  ],
+  "og": [
+    {
+      "property": "og:title",
+      "content": "Beyond Boundaries Youth Services"
+    },
+    {
+      "property": "og:description",
+      "content": "Join us for a free family-friendly event bringing the community together, raising dyslexia awareness, and supporting local youth."
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:image",
+      "content": "https://vibe.filesafe.space/1780273527087553998/assets/9d264e45-b43b-429c-abf1-6f417c0aae06.png"
+    },
+    {
+      "property": "og:url",
+      "content": "/"
+    }
+  ],
+  "twitter": [
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Beyond Boundaries Youth Services"
+    },
+    {
+      "name": "twitter:description",
+      "content": "Join us for a free family-friendly event bringing the community together, raising dyslexia awareness, and supporting local youth."
+    },
+    {
+      "name": "twitter:image",
+      "content": "https://vibe.filesafe.space/1780273527087553998/assets/9d264e45-b43b-429c-abf1-6f417c0aae06.png"
+    }
+  ],
+  "other": [
+    {
+      "charset": "UTF-8"
+    }
+  ],
+  "canonical": null,
+  "viewport": "width=device-width, initial-scale=1.0"
+}
